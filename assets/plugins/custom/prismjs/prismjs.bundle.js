@@ -1,8 +1,4 @@
 
-/* **********************************************
-     Begin prism-core.js
-********************************************** */
-
 /// <reference lib="WebWorker"/>
 
 var _self = (typeof window !== 'undefined')
