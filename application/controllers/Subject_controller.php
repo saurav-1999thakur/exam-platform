@@ -33,7 +33,7 @@ class Subject_controller extends CI_Controller {
 		// alert("oops");die;
 		// header('location:subject');
 		echo "success";
-	}
+	} 
 
 	public function delete_row($user){
 		$tablename = 'tbl_subjects';

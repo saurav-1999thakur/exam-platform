@@ -52,12 +52,12 @@
 												 			
 															<td>
 																<div class="d-flex justify-content-end flex-shrink-0">
-																	<!-- edit -->
+																	<!-- edit Subject -->
 																	<a href="#" onclick="editSubject(<?php echo $data['id'];?>)" data-bs-toggle="modal" data-bs-placement="top" data-bs-target="#kt_modal_edit_new">
 																		<i class="fa fa-pencil-square-o fa-fw" aria-hidden="true" style="font-size: 25px;">
 																		</i>
 																	</a>
-																	<!-- delete -->
+																	<!-- delete Subject -->
 																	<a href ="<?php echo ('delete_row/'.$data['id']); ?>">
 																		<i class="fa fa-trash fa-fw" aria-hidden="true" style="font-size: 25px;">
 																		</i>
