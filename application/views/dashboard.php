@@ -24,7 +24,7 @@
 												<div class="flex-grow-1">
 													<!--begin::Title-->
 													<div class="d-flex justify-content-between align-items-start flex-wrap mb-2">
-														<!--begin::User-->
+														<!--begin::User--> 
 														<div class="d-flex flex-column">
 															<!--begin::Name-->
 															<div class="d-flex align-items-center mb-2">

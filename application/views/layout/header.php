@@ -269,7 +269,7 @@
 										<!--begin::Menu item-->
 										<div class="menu-item px-5">
 											<a href="#" class="menu-link px-5" data-bs-toggle="modal" data-bs-target="#kt_modal_new_card">Change Password</a>
-										</div>
+										</div> 
 										<!--end::Menu item-->
 										<!--begin::Menu item-->
 										<div class="menu-item px-5">

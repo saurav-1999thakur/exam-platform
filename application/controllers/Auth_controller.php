@@ -39,7 +39,7 @@ class Auth_controller extends CI_Controller {
             }
             // pr($id); die; 
 
- 
+  
             $userdata = array(
                 'login_id'=>$validate['data']['login_id'],
                 'user_type'=>$validate['data']['user_type'],

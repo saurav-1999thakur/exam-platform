@@ -6,7 +6,7 @@ class ChangePassword_controller extends CI_Controller {
     public function __construct(){
         parent::__construct(); 
   
-        // $this->load->helper('common_helper');
+        // $this->load->helper('common_helper'); 
  
 		$this->load->model('Homepage_models');
 		$log = $this->session->userdata('login_data'); 

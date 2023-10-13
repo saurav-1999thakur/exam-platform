@@ -14,5 +14,5 @@ public function login_by_admin($login_id,$password){
             return $result;
             
     }
-
+ 
 }
